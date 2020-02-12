@@ -1,8 +1,8 @@
 {
-  "name": "amqp",
-  "description": "AMQP driver for node",
+  "name": "amqp4mcs",
+  "description": "AMQP driver for mcs",
   "keywords": [
-    "amqp"
+    "amqp", "mcs"
   ],
   "version": "0.2.7",
   "author": {
@@ -57,16 +57,16 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/postwait/node-amqp.git"
+    "url": "git://github.com/Ruiyun/node-amqp.git"
   },
   "bugs": {
-    "url": "http://github.com/postwait/node-amqp/issues"
+    "url": "http://github.com/Ruiyun/node-amqp/issues"
   },
   "main": "./amqp",
   "licenses": [
     {
       "type": "MIT",
-      "url": "http://github.com/postwait/node-amqp/raw/master/LICENSE-MIT"
+      "url": "http://github.com/Ruiyun/node-amqp/raw/master/LICENSE-MIT"
     }
   ],
   "dependencies": {
